@@ -14,6 +14,7 @@ Designed for beginner Japanese learners to practice and test core JLPT N5 vocabu
 - Prerequisites: Python 3.10+ and `pytest` (for automated tests).
 - Setup: Clone the repository and navigate to the project root.
 - Run: `python main.py`
+- Play: For each Japanese vocabulary term, enter the letter (A-D) for its English translation. Letter input is case-insensitive; entering the full English option also works. Empty or invalid answers are rejected without advancing the question.
 - Run tests: `pytest`
 
 ## Author and acknowledgements
